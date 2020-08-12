@@ -15,5 +15,5 @@ spec:
         run: spring-boot-sample
     spec:
       containers:
-      - image: ${IMAGE}
+      - image: app-1.0
         name: app
